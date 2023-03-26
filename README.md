@@ -24,3 +24,12 @@ Bu ders için özel bir ders notu çıkarmaya gerek duymadım, C# hakkında ücr
 Derste gösterilen algoritmalar hem Python hem de C# dillerinde kod örnekleri ile beraber notebooklar üzerinden sunuluyor.
 
 ## Introduction to Operations Reseach
+Ders dokümanlarındaki konuların Türçe olarak anlatıldığı notebooklar oluşturulmuştur.
+
+## Oluşturan
+[Enes Fehmi Manan](https://github.com/enesmanan)
+
+[enesmanan768@gmail.com](mailto:enesmanan768@gmail.com) 
+
+[LinkedIn](https://linkedin.com/in/enesfehmimanan/)
+
