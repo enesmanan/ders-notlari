@@ -13,3 +13,11 @@
 + Matrislerde matematiksel işlemler
 + Python uygulamaları
 + Alıştırmalar
+
+## :point_right:	 [3. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_3.ipynb) 
++ Determinant
++ Kofaktör, Minör ve Laplace Açılımı
++ Elemanter satır işlemleri
++ Matrislerin tersi
++ Python uygulamaları
++ Alıştırmalar
