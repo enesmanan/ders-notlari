@@ -21,3 +21,10 @@
 + Matrislerin tersi
 + Python uygulamaları
 + Alıştırmalar
+
+## :point_right:	 [4. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_4.ipynb) 
++ Örnek soru çözümü
+
+## :point_right:	 [5. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_5.ipynb) 
++ Bir matrisin rankı 
++ Alıştırma
