@@ -21,7 +21,7 @@
 + Girilen $a, b, c$ üçlüleri için $y=ab+c^2$ değerlerlerinden en küçük olanı bulan algoritma ve akış diyagramı
 
 ## :point_right:	 [4. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0statistiksel%20Uygulamalar%20ile%20Algoritma%20Tasar%C4%B1m%C4%B1/Hafta_4.ipynb) 
-+ SPARKS algirtima diline giriş
++ SPARKS algoritma diline giriş
 + SPARKS kod örnekleri
 + Bilinmeyen sayıda girilen 5 ile bölünen sayıların kaç adet olduğunu ve bu sayıların geometrik ortalamasını bulan algoritma 
 + Bilinmeyen sayıda girilen sayıların ortalamasını, varyansını ve harmonik ortalamasını bulan algoritma
