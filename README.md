@@ -23,8 +23,10 @@ Bu ders için özel bir ders notu çıkarmaya gerek duymadım, C# hakkında ücr
 ## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/%C4%B0statistiksel%20Uygulamalar%20ile%20Algoritma%20Tasar%C4%B1m%C4%B1)İstatistiksel Uygulamalar İle Algoritma Tasarımı
 Derste gösterilen algoritmalar hem Python hem de C# dillerinde kod örnekleri ile beraber notebooklar üzerinden sunuluyor.
 
-## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/%C4%B0ntroduction%20to%20Operation%20Resource)Introduction to Operations Reseach
+## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/%C4%B0ntroduction%20to%20Operation%20Resource)Introduction to Operation Reseach
 Ders dokümanlarındaki konuların Türçe olarak anlatıldığı notebooklar oluşturulmuştur.
+
+Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımızı oluştururken diğer kaynaklar ise her notebookun sonunda belirtilmiştir.
 
 ## Oluşturan:sparkles:
 
