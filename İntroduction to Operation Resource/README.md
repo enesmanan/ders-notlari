@@ -14,7 +14,7 @@
 + Model Doğrulama Nedir?
 + Retrospektif Test Nedir?
 
-## :point_right:	 [3. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_3.ipynbb) 
+## :point_right:	 [3. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_3.ipynb) 
 + Doğrusal Programlama
 + Doğrusal (Linear) Fonksiyon nedir?
 + Doğrusal Eşitsizlik (Linear inequality) Nedir?
