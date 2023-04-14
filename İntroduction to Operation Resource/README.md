@@ -21,3 +21,4 @@
 + Doğrusal Programlama Etmenleri
 + Doğrusal Programlama Varsayımları Nelerdir?
 + Sözel Bir Problemi Doğrusal Programlama Modeline Dönüştürme
++ Doğrusal Programlama Modelinin Grafik Yöntemi İle Çözümü
