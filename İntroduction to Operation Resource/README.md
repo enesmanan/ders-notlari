@@ -24,7 +24,7 @@
 + Doğrusal Programlama Modelinin Grafik Yöntemi İle Çözümü
 
 
-## :point_right:	 [3. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_4.ipynb) 
+## :point_right:	 [4. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_4.ipynb) 
 + Simplex Algoritması Nedir?
 + Simplex Algoritması İle Grafik Çözümün Karşılaştırılması
 + Simplex algoritmasının özellikleri
