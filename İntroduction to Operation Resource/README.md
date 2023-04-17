@@ -31,3 +31,9 @@
 + Simplex Algoritmasını Kullanım Şartları
 + Simplex Algoritması Akış Şeması
 + Simplex Algoritması Kavramları
+
+## :point_right:	 [5. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_5.ipynb) 
++ Simplex Çözüm Adımları
++ Örnek Simplex Sorusu 
++ Python İle Çözümü
+
