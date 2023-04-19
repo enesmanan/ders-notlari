@@ -13,7 +13,7 @@ Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımı
 
 Dersin dili ingilizce olmasına rağmen notlar Türkçe olarak oluşturulmuştur.
 
-Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımızı oluşturuyor. [Kaynak1](https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf) , [Kayank2](https://www.youtube.com/watch?v=WMjhPZFhjCs&list=PLcNWqzWzYG2vYhWpEuBQzZ8J4l65FEZyQ&index=1)
+Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımızı oluşturuyor. [Kaynak1](https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf) , [Kayank2](https://www.youtube.com/watch?v=WMjhPZFhjCs&list=PLcNWqzWzYG2vYhWpEuBQzZ8J4l65FEZyQ&index=1), [Kaynak3](https://bookdown.org/pkaldunn/DistTheory/Transformations.html), [Kaynak4](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf), [Kaynak5](https://faculty.math.illinois.edu/~r-ash/Stat/StatLec1-5.pdf)
 
 ## :open_book:Nesne Tabanlı Programlamaya Giriş
 Bu ders için özel bir ders notu çıkarmaya gerek duymadım, C# hakkında ücretsiz bir kaynak tavsiyesinde bulunacağım. Bu kaynak dersi geçmek için yeterli olacaktır.
