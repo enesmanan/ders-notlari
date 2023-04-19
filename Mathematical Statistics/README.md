@@ -18,3 +18,6 @@
 
 ### Ortak Olasılık Dağılımlarında Koşullu Olasılık Hesabı
 + [Ortak Olasılık Dağılımlarında Koşullu Olasılık Hesabı](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Ortak%20Olas%C4%B1l%C4%B1k%20Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1nda%20Ko%C5%9Fullu%20Olas%C4%B1l%C4%B1k%20Hesab%C4%B1.pdf)
+
+## Sıra İstatistikleri (Order Statistics)
++ [Sıra İstatistikleri](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/S%C4%B1ra%20%C4%B0statistikleri.pdf)
