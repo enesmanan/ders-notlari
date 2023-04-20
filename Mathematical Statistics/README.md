@@ -24,3 +24,10 @@
 
 ## Sıra İstatistikleri (Order Statistics)
 + [Sıra İstatistikleri](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/S%C4%B1ra%20%C4%B0statistikleri.pdf)
+
+## Rastgele Değişkenlerin Fonksiyonları (Functions of Random Variables)
++ [Rastgele Değişkenlerin Dönüşümü Giriş](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/D%C3%B6n%C3%BC%C5%9F%C3%BCm%20Giri%C5%9F.pdf)
++ [Kesikli Ortak Olasılık Dağılımlarında Bire Bir Dönüşüm](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Kesikli%20Ortak%20Olas%C4%B1l%C4%B1k%20Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1nda%20Bire%20Bir%20D%C3%B6n%C3%BC%C5%9F%C3%BCm.pdf)
++ [Sürekli Ortak Olasılık Dağılımlarında Bire Bir Dönüşüm](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/S%C3%BCrekli%20Ortak%20Olas%C4%B1l%C4%B1k%20Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1nda%20Bire%20Bir%20D%C3%B6n%C3%BC%C5%9F%C3%BCm.pdf)
++ [Bire Bir Olmayan Dönüşüm](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Bire%20Bir%20Olmayan%20D%C3%B6n%C3%BC%C5%9F%C3%BCm.pdf)
++ [CDF Tekniği](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/CDF%20Tekni%C4%9Fi.pdf)
