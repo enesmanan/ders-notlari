@@ -28,3 +28,11 @@
 ## :point_right:	 [5. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_5.ipynb) 
 + Bir matrisin rankı 
 + Alıştırma
+
+## :point_right:	 [6. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_6.ipynb) 
++ Lineer Denklem Sistemleri
++ Lineer Denklem Sistemlerinin Çözüm Durumları
++ Lineer Denklem Sistemlerinin Matrisler İle Gösterimi
++ 
++ 
++ 
