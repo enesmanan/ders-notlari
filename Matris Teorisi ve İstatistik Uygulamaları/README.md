@@ -36,3 +36,9 @@
 + $AX=b$ Metodu
 + Gauss Yoketme Metodu
 + Python İle Çözümler
+
+## :point_right:	 [7. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_7.ipynb) 
++ Homojen Lineer Denklem Sistemleri
++ Karakteristik Polinom ve Karakteristik Denklem
++ Cayley Hamilton Teoremi
+
