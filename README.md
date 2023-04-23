@@ -6,7 +6,7 @@ Veri bilimi ve yapay zeka gibi alanlarda oldukça fazla öneme sahip olan matris
 
 Python temellerini tekrar etmek istersen [buraya](https://github.com/enesmanan/python_documentation) bakabilirsin.
 
-Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımızı oluşturuyor. Ek kaynaklar [Kaynak1](http://www.baskent.edu.tr/~tkaracay/etudio/ders/math/calculus/Math/210matrix.pdf), [Kaynak2](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA&index=1).
+Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımızı oluşturuyor. Ek kaynaklar [Kaynak1](http://www.baskent.edu.tr/~tkaracay/etudio/ders/math/calculus/Math/210matrix.pdf), [Kaynak2](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA&index=1), [Kaknak3](https://www.derspresso.com.tr/).
 
 ## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/Mathematical%20Statistics)Mathematical Statistics
 Önemli bölüm derslerinden birisi olan bu ders için direkt olarak kendi el yazım ile yazılmış notlarımı paylaşıyorum. PDF formatında ve konu başlıklarına göre ayrılmış bir şekilde paylaşılmıştır.
@@ -23,7 +23,7 @@ Bu ders için özel bir ders notu çıkarmaya gerek duymadım, C# hakkında ücr
 ## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/%C4%B0statistiksel%20Uygulamalar%20ile%20Algoritma%20Tasar%C4%B1m%C4%B1)İstatistiksel Uygulamalar İle Algoritma Tasarımı
 Derste gösterilen algoritmalar hem Python hem de C# dillerinde kod örnekleri ile beraber notebooklar üzerinden sunuluyor.
 
-## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/%C4%B0ntroduction%20to%20Operation%20Resource)Introduction to Operation Reseach
+## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/%C4%B0ntroduction%20to%20Operation%20Resource)Introduction to Operations Reseach
 Ders dokümanlarındaki konuların Türçe olarak anlatıldığı notebooklar oluşturulmuştur.
 
 Kaynaklar: Ege üniveristesi istatistik bölümü ders notları ana kaynağımızı oluştururken diğer kaynaklar ise her notebookun sonunda belirtilmiştir.
