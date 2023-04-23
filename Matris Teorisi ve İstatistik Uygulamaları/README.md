@@ -33,6 +33,6 @@
 + Lineer Denklem Sistemleri
 + Lineer Denklem Sistemlerinin Çözüm Durumları
 + Lineer Denklem Sistemlerinin Matrisler İle Gösterimi
-+ 
-+ 
-+ 
++ $AX=b$ Metodu
++ Gauss Yoketme Metodu
++ Python İle Çözümler
