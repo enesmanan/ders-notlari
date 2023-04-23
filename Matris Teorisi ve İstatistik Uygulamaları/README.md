@@ -42,3 +42,6 @@
 + Karakteristik Polinom ve Karakteristik Denklem
 + Cayley Hamilton Teoremi
 
+## :point_right:	 [8. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_8.ipynb) 
++ Örnek Soru Çözümleri
+
