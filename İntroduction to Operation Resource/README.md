@@ -37,3 +37,7 @@
 + Örnek Simplex Sorusu 
 + Python İle Çözümü
 
+## :point_right:	 [6. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_6.ipynb) 
++ Büyük M Metodu
++ Python İle Çözümü
++ Örnek M Metod Sorusu
