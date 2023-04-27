@@ -41,3 +41,6 @@
 + Büyük M Metodu
 + Python İle Çözümü
 + Örnek M Metod Sorusu
++ İki Aşamalı Yöntem
++ İki Aşamalı Yöntem İle Büyük M Metodunun Karşılaştırılması
+
