@@ -29,3 +29,9 @@
 
 ### Moment Üreten Fonksiyon
 + [Moment Üreten Fonkisyon](https://github.com/enesmanan/ders-notlari/blob/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k/Moment%20ureten%20fonksiyon.pdf)
+
+### Chebyshev Eşitsizliği
++ [Chebyshev Eşitsizliği](https://github.com/enesmanan/ders-notlari/blob/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k/chebyshev%20e%C5%9Fitsizli%C4%9Fi.pdf)
+
+### Paskal Üçgeni Ve İspatı
++ [Paskal Üçgeni Ve İspatı](https://github.com/enesmanan/ders-notlari/blob/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k/Paskal%20ucgeni.pdf)
