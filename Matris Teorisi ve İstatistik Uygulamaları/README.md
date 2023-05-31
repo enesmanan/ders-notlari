@@ -45,5 +45,10 @@
 ## :point_right:	 [8. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/Hafta_8.ipynb) 
 + Örnek Soru Çözümleri
 
+## :point_right:	 [9. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/%C3%96zde%C4%9Fer%20ve%20%C3%96zvekt%C3%B6rler.pdf) 
++ Özdeğer ve Özvektörler
+
 ## :point_right:	 [Python Araçları](https://github.com/enesmanan/ders-notlari/blob/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1/python-araclari.ipynb) 
-+ Matris İşlemlerini Python'da Yapmak İçin Araçlar
++ Matris İşlemlerini Python ile Gerçekleştiren Araçlar
+
+
