@@ -36,3 +36,5 @@
 + [Giriş ve Moment Yöntemi](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Giri%C5%9F%20ve%20Moment%20Y%C3%B6ntemi.pdf)
 + [Method of Maximum Likelihood](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Method%20of%20Maximum%20Likelihood.pdf)
 + [Maximum Likelihood Estimators](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Maximum%20Likelihood%20Estimators.pdf)
++ [Proporties of Point Estimators](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Proporties%20of%20Point%20Estimators.pdf)
++ [Mean Square Error](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Mean%20Square%20Error.pdf)
