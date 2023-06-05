@@ -44,3 +44,6 @@
 + İki Aşamalı Yöntem
 + İki Aşamalı Yöntem İle Büyük M Metodunun Karşılaştırılması
 
+## :point_right:	 [7. Hafta](https://github.com/enesmanan/ders-notlari/blob/main/%C4%B0ntroduction%20to%20Operation%20Resource/Hafta_7.ipynb) 
++ Sensitivity Analysis
++ Örnek soru kaynakları
