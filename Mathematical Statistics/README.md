@@ -38,3 +38,4 @@
 + [Maximum Likelihood Estimators](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Maximum%20Likelihood%20Estimators.pdf)
 + [Proporties of Point Estimators](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Proporties%20of%20Point%20Estimators.pdf)
 + [Mean Square Error](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Mean%20Square%20Error.pdf)
++ [Efficiency](https://github.com/enesmanan/ders-notlari/blob/main/Mathematical%20Statistics/Efficiency.pdf)
