@@ -1,8 +1,11 @@
 # İstatistik II Bahar Ders Notları:books:
 ![@enesmanan768 (2)](https://user-images.githubusercontent.com/88631980/225614979-12075999-839b-42dc-8898-8583d269cf82.jpg)
 
+## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1)Diğer Ders Notları
++ [Olasılık](https://github.com/enesmanan/ders-notlari/tree/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k), [Hipotez Testleri](https://github.com/enesmanan/ders-notlari/tree/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1), [Güven Aralığı](https://github.com/enesmanan/ders-notlari/tree/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/Basic%20Statistics), [Matematik](https://github.com/enesmanan/ders-notlari/tree/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/Matematik), [İstatistiğe Giriş](https://github.com/enesmanan/ders-notlari/tree/main/Di%C4%9Fer%20Ders%20Notlar%C4%B1/%C4%B0statisti%C4%9Fe%20Giri%C5%9F)
+
 ## [:open_book:](https://github.com/enesmanan/ders-notlari/tree/main/Matris%20Teorisi%20ve%20%C4%B0statistik%20Uygulamalar%C4%B1)Matris Teorisi Ve İstatistik Uygulamaları
-Veri bilimi ve yapay zeka gibi alanlarda oldukça fazla öneme sahip olan matrislerin, sadece teoride kalmayarak programlama dilleri üzerinden nasıl kullanılabileceğini de içerecek kapsamda notebooklar hazırlanmıştır. Notebook sonlarındaki alıştırmaları yapmak, uygulama anlamında fayada sağlayacaktır.
+Veri bilimi ve yapay zeka gibi alanlarda oldukça fazla öneme sahip olan matrislerin, sadece teoride kalmayarak programlama dilleri üzerinden nasıl kullanılabileceğini de içerecek kapsamda notebooklar hazırlanmıştır. Notebook sonlarındaki alıştırmaları yapmak, uygulama anlamında fayda sağlayacaktır.
 
 Python temellerini tekrar etmek istersen [buraya](https://github.com/enesmanan/python_documentation) bakabilirsin.
 
